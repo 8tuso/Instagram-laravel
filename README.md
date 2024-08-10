@@ -16,7 +16,7 @@ This project is a web application clone of Instagram, created to mimic the core 
 ## Features
 
 ### 1. User Registration and Authentication
-![User Registration](storage/app/public/Register.png)
+![User Registration](storage/app/public/Register.PNG)
 - **User Creation:** Users can sign up by creating an account with a unique username, email, and password. The application securely stores user credentials using hashed passwords.
 
 ![User Registration](storage/app/public/login panel.PNG)
