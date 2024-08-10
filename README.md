@@ -31,7 +31,7 @@ This project is a web application clone of Instagram, created to mimic the core 
 - **Post Management:** Users can view their posts on their profile page, which displays all their uploads in a grid format.
 
 ### 3. Commenting on Posts
-![Commenting on Posts](path_to_image/commenting_posts.png)
+![Commenting on Posts](storage/app/public/comments.PNG)
 - **Comments:** Users can add comments to posts, facilitating interaction and discussion around the content. Comments are displayed in chronological order below each post.
 
 ### 4. Home Page
