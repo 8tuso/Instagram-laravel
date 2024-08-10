@@ -7,6 +7,57 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About The Website
+
+# Instagram Clone
+
+This project is a web application clone of Instagram, created to mimic the core functionalities of the popular social media platform. Below is a brief explanation of the implemented features as well as those that are planned but not yet deployed.
+
+## Features
+
+### 1. User Registration and Authentication
+![User Registration](storage/app/public/Register.png)
+- **User Creation:** Users can sign up by creating an account with a unique username, email, and password. The application securely stores user credentials using hashed passwords.
+
+![User Registration](storage/app/public/login panel.PNG)
+- **Login/Logout:** Users can log in with their credentials and log out when done, with sessions managed to ensure a smooth experience.
+
+### 2. Uploading Posts
+![Uploading Posts](storage/app/public/create.PNG)
+- **Post Creation:** Users can upload images to share with their followers. Each post includes a caption, which users can edit at the time of posting.
+
+
+![Uploading Posts](storage/app/public/posts.PNG)
+- **Post Management:** Users can view their posts on their profile page, which displays all their uploads in a grid format.
+
+### 3. Commenting on Posts
+![Commenting on Posts](path_to_image/commenting_posts.png)
+- **Comments:** Users can add comments to posts, facilitating interaction and discussion around the content. Comments are displayed in chronological order below each post.
+
+### 4. Home Page
+![Home Page](storage/app/public/Home.PNG)
+- **Feed Display:** The home page shows a feed of posts from users that the logged-in user is following, providing an engaging experience similar to the Instagram home feed.
+- **Pagination:** The feed supports pagination, allowing users to load more content as they scroll down.
+
+### 5. Following Users
+![Following Users](storage/app/public/profile.PNG)
+- **Follow/Unfollow:** Users can follow other users to see their posts in their feed. This feature encourages social interaction and content discovery within the app.
+
+## Features Not Yet Deployed
+
+### 1. Likes
+- **Like Posts:** The ability for users to like posts is planned. This feature will allow users to express their appreciation for content and will display a count of likes on each post.
+
+### 2. Replying to Comments
+- **Comment Replies:** Users will soon be able to reply to comments, enabling threaded discussions within the comments section.
+
+### 3. Notifications
+- **User Notifications:** Notifications for likes, comments, follows, and replies are planned to enhance user engagement. This will help users stay updated with interactions on their posts and account.
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
